@@ -1,0 +1,20 @@
+Help;
+
+While VALIDATION! 
+
+Name Validation    ; If you are a new user , please make sure while entering your name/username/location . The names should be contains only ALPHABETS with 3 to 30 characters;
+
+MobileNo validation; If you are a new user , please make sure while entering your phone number. The number should contains only NUMERICS(INTEGERS) with MUST 10 digits;
+
+Password validation; If you are a new user , please make sure while entering your password . The password should contains only 8 characters , starts with ALPHABET may contains     number or not  . And sure you must enter atleast one special character.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+(*)Now we cannot give the facility to change any data provided by You.But may be in Future!
+
+(*)while using this chaty, you may face issues like stucking while entering your choice. on that thing , you may press enter to solve the issue.
+
+(*)You cannot able to delete message now.But may be in Future.
+
+(*)you can send message just type CCC after entering your message. 
+----------------------------------------------------------------------------------------------------------------------------------------------------
